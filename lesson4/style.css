@@ -1,0 +1,23 @@
+.title {
+    border-bottom: 5px double red;
+    width: 450px;
+    border-top: 5px double red;
+    text-align: center;
+    background-color: rgb(246, 207, 207);
+
+}
+h1{
+    text-align: center;
+
+}
+
+span{
+    color: red;
+}
+ul{
+    border:1px solid blue;
+    width: 350px;
+    font-weight: 600;
+    background-color: rgb(227, 220, 251);
+    
+}
