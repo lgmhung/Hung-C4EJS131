@@ -1,0 +1,52 @@
+.title{
+    background-color: rebeccapurple;
+    color:white;
+    width: 600px;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin: 0px 0 5px 0;
+    margin-right: 300px;
+} 
+.header{
+    margin-top: 140px;
+    font-size: 28px;
+    padding-left: 430px;
+}
+h3{
+    color: rebeccapurple;
+}
+i{
+    background-color: #eddbff;
+    border-radius: 4px;
+    padding: 5px;
+    
+
+}
+.p1{
+
+    color: #757575;
+}
+.products{
+    border: 1px solid #c9c9c9;
+    border-radius: 4px;
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+}
+img{
+    border-radius: 4px;
+    width: 100%;
+}
+#lmh {
+    display: inline-block;
+    background-color: rebeccapurple;
+    padding: 25px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 550px;
+}
+.p2{
+    padding-left: 550px;
+}
